@@ -9,7 +9,7 @@
 		default_layer {
 			bindings = <
 				&bootloader       &bt BT_CLR
-				&bt BT_SEL 0      &kp KP_A
+				&bt BT_SEL 0      &kp A
 			>;
 		};
 	};
