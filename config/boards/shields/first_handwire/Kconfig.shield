@@ -1,0 +1,2 @@
+config SHIELD_FIRST_HANDWIRE
+	def_bool $(shield_list_contains, first)
