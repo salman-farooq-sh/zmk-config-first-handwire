@@ -1,4 +1,4 @@
-if SHIELD_FIRST_HANDWIRE
+if SHIELD_FIRST
 
 config ZMK_KEYBOARD_NAME
 	default "first"
