@@ -1,6 +1,6 @@
-if SHIELD_FIRST
+if SHIELD_FIRST_HANDWIRE
 
 config ZMK_KEYBOARD_NAME
-	default "first"
+	default "first_handwire"
 
 endif
