@@ -1,2 +1,3 @@
 config SHIELD_FIRST_HANDWIRE
-	def_bool $(shield_list_contains, first_handwire)
+    bool "First Handwire"
+    default y
